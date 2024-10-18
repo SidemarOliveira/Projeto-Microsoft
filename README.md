@@ -1,3 +1,4 @@
+
 # 🖥️ Projeto: Reconstrução de um site da Microsoft  
 
 ## 📋 Resumo  
@@ -39,3 +40,6 @@ Este projeto consistiu na recriação da interface de um site da Microsoft utili
 
 ## ✅ Conclusão  
 Este projeto permitiu consolidar conhecimentos em **HTML, CSS e Bootstrap** e entender como as três tecnologias se complementam no desenvolvimento web moderno. A reconstrução de um site renomado como o da Microsoft foi um excelente desafio para aprimorar a atenção aos detalhes e reforçar boas práticas de design responsivo e acessível.  
+<br>
+Deploy:https://rebuild-dev-site.netlify.app
+<img src="https://github.com/SidemarOliveira/Projeto-Microsoft/blob/main/assets/image-mockup%20(2).png?raw=true">
